@@ -7,7 +7,7 @@
  And here's some android projects I created, Let's jump right into them..
 
 
-## 7 Minutes Workout          
+## [7 Minutes Workout](https://github.com/mohamedalaa4j/7MinutesWorkout)      
 
 [![MIT License](https://img.shields.io/badge/Language%20-Kotlin-blue?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/Minimun%20API%20-21-yellow?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/License-Free-success?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) 
 
@@ -44,5 +44,4 @@ This app provides some effective workouts to keep fit & helps you tracking your 
 - ViewBinding
 - Custom ProgressBar
 
- [Repository](https://github.com/mohamedalaa4j/7MinutesWorkout)
  
