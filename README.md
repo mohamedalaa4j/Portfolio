@@ -41,5 +41,7 @@ This app provides some effective workouts to keep fit & helps you tracking your 
 - Coroutines
 - RecyclerView
 - ViewBinding
+- MediaPlayer
+- Custom ProgressBar
 
 
