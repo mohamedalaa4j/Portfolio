@@ -35,3 +35,11 @@ This app provides some effective workouts to keep fit & helps you tracking your 
 
 </p>
 
+## Components worked with
+
+- Room Datebase
+- Coroutines
+- RecyclerView
+- ViewBinding
+
+
