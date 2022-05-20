@@ -19,15 +19,19 @@ This app provides some effective workouts to keep fit & helps you tracking your 
 - Exercise name pronunciation
 - BMI calculator with Metric/US unites
 - History to track your activities
-- Light/dark mode toggle
 - No internet connection needed
 
 
 ## Screenshots
 
 <p float="left">
-  <img src="https://github.com/HansG26/Android-Portfolio/raw/master/Screenshots/Scoop1.png "width="300" hight="300"/>
-  <img src="https://github.com/HansG26/Android-Portfolio/raw/master/Screenshots/Scoop1.png "width="300" hight="300"/> 
-  <img src="https://github.com/sparrow007/Android-Portfolio/raw/master/images/notes_app.gif "width="300" hight="300"/>
+   <img src="https://github.com/mohamedalaa4j/Portfolio/blob/main/ScreenShots/7MinutesWorkout/Screenshot_20220520_172926.png?raw=true "width="250" hight="250"/>
+   <img src="https://github.com/mohamedalaa4j/Portfolio/blob/main/ScreenShots/7MinutesWorkout/Screenshot_20220520_173153.png?raw=true?raw=true "width="250" hight="250"/>
+   <img src="https://github.com/mohamedalaa4j/Portfolio/blob/main/ScreenShots/7MinutesWorkout/Screenshot_20220520_175928.png?raw=true?raw=true?raw=true?raw=true "width="250" hight="250"/>
+   <img src="https://github.com/mohamedalaa4j/Portfolio/blob/main/ScreenShots/7MinutesWorkout/Screenshot_20220520_180129.png?raw=true?raw=true?raw=true?raw=true?raw=true "width="250" hight="250"/>
+   <img src="https://github.com/mohamedalaa4j/Portfolio/blob/main/ScreenShots/7MinutesWorkout/Screenshot_20220520_180107.png?raw=true?raw=true?raw=true?raw=true?raw=true?raw=true "width="250" hight="250"/>
+   <img src="https://github.com/mohamedalaa4j/Portfolio/blob/main/ScreenShots/7MinutesWorkout/Screenshot_20220520_175719.png?raw=true?raw=true?raw=true "width="250" hight="250"/>
+
+
 </p>
 
