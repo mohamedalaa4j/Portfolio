@@ -102,7 +102,8 @@ Happy Places helps you to manage your favorite visited places and save them
 - Selecting the Address or enter manually
 - Selecting the date of the visit
 - Taking a picture of the place
-- Swipe to edit and swipe to delete feature
+- Swipe to edit and swipe to delete items feature
+- Arabic language is supported
 
 
 ## Screenshots
@@ -128,9 +129,11 @@ Happy Places helps you to manage your favorite visited places and save them
 ## Components worked with
 
 - Google places API
+- Google maps fragment
 - SQLite Database
 - External libraries
 - Request permissions
+- Localization
 - Location access
 - Camera access
 - Storage access
@@ -139,7 +142,8 @@ Happy Places helps you to manage your favorite visited places and save them
 ## 🛠 External libraries used
 
 - Dexter
-- Retrofit
-- Gson
+- Google location services
+- [Swipe Features](https://medium.com/@kitek/recyclerview-swipe-to-delete-easier-than-you-thought-cff67ff5e5f6)
+- [de.hdodenhof:circleimageview](https://github.com/hdodenhof/CircleImageView)
 
  
