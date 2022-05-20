@@ -62,10 +62,10 @@ Simple application that provides weather conditions according to your location
 ## Screenshots
 
 <p float="left">
-   <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/WeatherApp/Screenshot_1653055401.png?raw=true "width="240" hight="240"/>
-    <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/WeatherApp/Screenshot_1653055405.png?raw=true "width="240" hight="240"/>
-   <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/WeatherApp/Screenshot_1653055407.png?raw=true "width="240" hight="240"/>
-    <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/WeatherApp/Screenshot_1653055411.png?raw=true "width="240" hight="240"/>
+   <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/WeatherApp/Screenshot_1653055401.png?raw=true "width="250" hight="250"/>
+    <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/WeatherApp/Screenshot_1653055405.png?raw=true "width="250" hight="250"/>
+   <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/WeatherApp/Screenshot_1653055407.png?raw=true "width="250" hight="250"/>
+    <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/WeatherApp/Screenshot_1653055411.png?raw=true "width="250" hight="250"/>
 
 </p>
 
