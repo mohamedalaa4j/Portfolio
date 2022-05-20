@@ -5,7 +5,7 @@ Android apps I worked on
 
 ## 7 Minutes Workout
 
-Any additional information goes here
+This app provides  some effective workouts to keep fit & helps tracking your BMI
 
 
 ## Features
