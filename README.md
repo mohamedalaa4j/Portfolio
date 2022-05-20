@@ -78,7 +78,7 @@ Simple application that provides weather conditions according to your location
 - Json response
 - Splash Screen
 
-## 🛠 External libraries
+## 🛠 External libraries used
 
 - Dexter
 - Retrofit
