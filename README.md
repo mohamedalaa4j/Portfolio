@@ -16,11 +16,11 @@ This app provides some effective workouts to keep fit & helps you tracking your 
 
 ## Features
 
+- Exercise name pronunciation
 - BMI calculator with Metric/US unites
 - History to track your activities
 - Light/dark mode toggle
-- Fullscreen mode
-- Cross platform
+- No internet connection needed
 
 
 ## Screenshots
