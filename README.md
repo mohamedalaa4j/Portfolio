@@ -90,7 +90,8 @@ Simple application that provides weather conditions according to your location
 
 ## [Happy Places](https://github.com/mohamedalaa4j/Happy-Places)      
 
-[![MIT License](https://img.shields.io/badge/Language%20-Kotlin-blue?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/Minimun%20API%20-21-yellow?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/License-Free-success?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/Permissions%20-Access%20Location%20&%20Access%20Storage%20&%20Access%20Internet-critical?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/badge/Language%20-Kotlin-blue?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/Minimun%20API%20-21-yellow?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/License-Free-success?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![MIT License](https://img.shields.io/badge/Permissions%20-Access%20Location%20&%20Access%20Storage%20&%20Access%20camera%20&%20Access%20Internet-critical?)
+
 
 Happy Places helps you to manage your favorite visited places and save them
 
@@ -126,11 +127,13 @@ Happy Places helps you to manage your favorite visited places and save them
 
 ## Components worked with
 
+- Google places API
+- SQLite Database
 - External libraries
 - Request permissions
 - Location access
-- Http request
-- Json response
+- Camera access
+- Storage access
 - Splash Screen
 
 ## 🛠 External libraries used
