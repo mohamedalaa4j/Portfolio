@@ -37,12 +37,17 @@ This app provides some effective workouts to keep fit & helps you tracking your 
 
 ## Components worked with
 
-- Room Datebase
-- Coroutines
+- Datebase
+- Asynchronous programming
 - Text-to-speech output
 - RecyclerView
 - ViewBinding
 - Custom ProgressBar
+
+## 🛠 External libraries used
+
+- Room Datebase
+- Coroutines
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -194,5 +199,44 @@ Simple application that provides weather conditions according to your location
 - Dexter
 - Retrofit
 - Gson
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## [XO](https://github.com/mohamedalaa4j/xo)      
+
+[![MIT License](https://img.shields.io/badge/Language%20-Kotlin-blue?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/Minimun%20API%20-21-yellow?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/License-Free-success?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) 
+
+Simple XO game application
+
+
+## Features
+
+- Play against the computer
+- Multiplayer with a friend
+- No internet connection needed
+
+
+## Screenshots
+
+<p float="left">
+<img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/xo/Screenshot_1653515990.png?raw=true "width="250" hight="250"/>
+<img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/xo/Screenshot_1653515914.png?raw=true "width="250" hight="250"/>
+ <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/xo/Screenshot_1653516032.png?raw=true "width="250" hight="250"/>
+ <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/xo/Screenshot_1653516117.png?raw=true "width="250" hight="250"/>
+ <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/xo/Screenshot_1653516398.png?raw=true "width="250" hight="250"/>
+ <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/xo/Screenshot_1653522118.png?raw=true "width="250" hight="250"/>
+ <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/xo/Screenshot_1653570673.png?raw=true "width="250" hight="250"/>
+ <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/xo/Screenshot_1653522159.png?raw=true "width="250" hight="250"/>
+ <img src="https://raw.githubusercontent.com/mohamedalaa4j/Portfolio/main/ScreenShots/xo/Screenshot_1653522229.png?raw=true "width="250" hight="250"/>
+
+</p>
+
+## Components worked with
+
+- Custom design
+- Adding fonts
+- validation custom dialogs
+- Splash screen
+
+
 
  
