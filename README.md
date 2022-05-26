@@ -96,6 +96,7 @@ The application provides you with the latest news form The Guardian newspaper
 ## 🛠 External libraries used
 
 - Volley
+- Picasso
 - Facebook Shimmer effect for Android
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -154,6 +155,7 @@ Happy Places helps you to manage your favorite visited places and save them
 ## 🛠 External libraries used
 
 - Dexter
+- SQLite
 - Google location services
 - [Swipe Features](https://medium.com/@kitek/recyclerview-swipe-to-delete-easier-than-you-thought-cff67ff5e5f6)
 - [de.hdodenhof:circleimageview](https://github.com/hdodenhof/CircleImageView)
