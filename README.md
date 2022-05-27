@@ -43,6 +43,7 @@ This app provides some effective workouts to keep fit & helps you tracking your 
 - RecyclerView
 - ViewBinding
 - Custom ProgressBar
+- Count down timer
 
 ## 🛠 External libraries used
 
