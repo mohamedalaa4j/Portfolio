@@ -52,7 +52,7 @@ This app provides some effective workouts to keep fit & helps you tracking your 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## [TheGuadianNews](https://github.com/mohamedalaa4j/TheGuadianNews)     
+## [TheGuardianNews](https://github.com/mohamedalaa4j/TheGuadianNews)     
 
 [![MIT License](https://img.shields.io/badge/Language%20-Kotlin-blue?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/Minimun%20API%20-21-yellow?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/License-Free-success?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![MIT License](https://img.shields.io/badge/Permissions%20-Access%20internet-critical?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
